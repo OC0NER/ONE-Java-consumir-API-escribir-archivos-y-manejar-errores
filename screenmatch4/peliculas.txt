@@ -1,0 +1,2 @@
+
+nombre = 'Ice Age', fechaDeLanzamiento = 2002, duracion = 81 min
